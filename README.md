@@ -1,4 +1,5 @@
 # A1
+```
 function analyzePassword(password) {
     let score = 0;
     const recommendations = [];
